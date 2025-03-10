@@ -1,17 +1,10 @@
 # DS.v3.2.1.5
 Demographic Impact on Mental Health Conditions
 
-📝 Project Overview
-This project analyzes mental health conditions across different demographics, focusing on gender and age. It leverages an SQLite database containing survey responses related to mental health diagnoses. The goal is to extract insights, visualize data, and calculate statistics (percentages, means, medians) that highlight how different genders and age groups are affected by specific mental health conditions.
+This project explores the impact of demographic factors on mental health conditions among employees in the technology sector, using survey data collected over multiple years. It focuses on understanding how mental health conditions are distributed across different age groups, genders, and geographic locations, and how workplace stigma influences diagnosed individuals.
 
-🔧 Features
-Extract and clean mental health survey data from an SQLite database.
-Categorize diagnosed mental health conditions using a customizable mapping.
-Analyze data by gender and age:
-Calculate percentages of mental health conditions by gender.
-Compute mean and median ages of respondents with specific conditions.
-Generate visualizations:
-Bar charts for mental health condition prevalence by gender.
-Normalized bar charts (percentages within gender groups).
-Correlation heatmaps showing the relationship between age and mental health conditions.
-Optimized data processing for speed and efficiency.
+The analysis answers key questions such as:
+
+1. How common are mental health disorders among tech employees?
+2. Is there a negative stigma in workplaces toward mental health issues?
+3. Do location and demographics can (gender, age) influence the prevalence or type of mental health conditions?
