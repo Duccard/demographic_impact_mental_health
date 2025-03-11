@@ -12,9 +12,11 @@ The analysis goal is to understand how can demography can impact mental health i
 
 **3. How do mental health conditions numbers vary across different gender groups?**
 
-**4. Is there much of negative stigma overall in the workplaces towards mental conditions ?**
+**4. Which age are the most likely to have mental disorder?**
 
-**5. What are the most popular mental conditions among employees? Are these conditions types can be affected by demografic factors?**
+**5. Is there much of negative stigma overall in the workplaces towards mental conditions ?**
+
+**6. What are the most popular mental conditions among employees? Are these conditions types can be affected by demografic factors?**
 
 ## Analysis structure 
 
