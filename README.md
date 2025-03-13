@@ -16,7 +16,9 @@ The analysis goal is to understand how can demography can impact mental health i
 
 **5. Is there much of negative stigma overall in the workplaces towards mental conditions ?**
 
-**6. What are the most popular mental conditions among employees? Are these conditions types can be affected by demografic factors?**
+**6. What is prevalance rate of mental conditions of most dominant conditions? (Even if the results are from specific sample)**
+
+**7. Can mental conditions types can be affected by demografic factors? (Even if the results are from specific sample)**
 
 ## Analysis structure 
 
