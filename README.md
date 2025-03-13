@@ -44,18 +44,18 @@ The goal of the analysis is to understand the current state of mental health in 
 
 The following tools and libraries were used in this analysis:
 
- Python: Programming language for data analysis and visualization.
- Pandas: For data manipulation and cleaning.
- Matplotlib: For creating visualizations.
- Seaborn: For enhanced data visualization.
- Jupyter Notebook: For interactive code execution and analysis.
- NumPy: For numerical operations.
- Typing: For type hinting in Python code.
- Geopandas: For working with geographic data and spatial analysis.
- Statsmodels: For statistical modeling and tests.
- sqlite3: For working with SQLite databases.
- DB Browser: For interacting with SQLite databases visually (this could be a tool, not a Python library).
- mpl_toolkits: For advanced plotting and other plotting extensions in Matplotlib.
+ **Python:** Programming language for data analysis and visualization.
+ **Pandas:** For data manipulation and cleaning.
+ **Matplotlib:** For creating visualizations.
+ **Seaborn:** For enhanced data visualization.
+ **Jupyter Notebook:** For interactive code execution and analysis.
+ **NumPy:** For numerical operations.
+ **Typing:** For type hinting in Python code.
+ **Geopandas:** For working with geographic data and spatial analysis.
+ **Statsmodels:** For statistical modeling and tests.
+ **sqlite3:** For working with SQLite databases.
+ **DB Browser:** For interacting with SQLite databases visually (this could be a tool, not a Python library).
+ **mpl_toolkits:** For advanced plotting and other plotting extensions in Matplotlib.
 
 
 ## License
