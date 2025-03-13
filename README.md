@@ -16,7 +16,7 @@ The goal of the analysis is to understand the current state of mental health in 
 
 **5. Is there much of negative stigma overall in the workplaces towards mental conditions ?**
 
-**6. What is prevalance rate of mental conditions of most dominant conditions? (Even if the results are from specific sample)**
+**6. **What is prevalance rate of most dominant mental conditions? (Even if the results are from specific sample)**
 
 **7. Can mental conditions types can be affected by demografic factors? (Even if the results are from specific sample)**
 
