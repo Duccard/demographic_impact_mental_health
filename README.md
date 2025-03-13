@@ -1,8 +1,8 @@
 # DS.v3.2.1.5
 
-# Demographic Impact on the Mental Health of Employees
+# **Demographic Impact on the Mental Health of Employees**
 
-The analysis goal is to understand how can demography can impact mental health issues of employees in the technology sector. It focuses on understanding how mental health conditions are distributed across different age groups, genders, and geographic locations, and how workplace stigma influences diagnosed individuals.
+The goal of the analysis is to understand the current state of mental health in the tech sector and explore how demographics may affect employees' mental health.
 
 ## The analysis answers key questions such as:
 
